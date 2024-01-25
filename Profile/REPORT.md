@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-skills-FF3300?style=flat-square)](https://github.com/VinceWhite19/SelfAssessment)
+[![Skills](https://img.shields.io/badge/Self_Assessment-skills-009933?style=flat-square)](https://github.com/VinceWhite19/SelfAssessment)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-skills-FF3300?style=flat-square)](https://github.com/VinceWhite19/SelfAssessment)
+[![Skills](https://img.shields.io/badge/Self_Assessment-skills-009933?style=flat-square)](https://github.com/VinceWhite19/SelfAssessment)
 ```
 
 ```
-<a href="https://github.com/VinceWhite19/SelfAssessment"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-skills-FF3300?style=flat-square"></a>
+<a href="https://github.com/VinceWhite19/SelfAssessment"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-skills-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -25,11 +25,11 @@
   - Operation systems: `13` of `13`
   - Standards: `8` of `15`
 - JavaScript
-  - Language: `53` of `53`
+  - Language: `57` of `57`
   - Statements: `19` of `19`
-  - Functions: `7` of `7`
+  - Functions: `10` of `10`
   - Data structures: `7` of `7`
-  - Standard classes and namespaces: `11` of `11`
+  - Standard classes and namespaces: `14` of `14`
   - Infrastructure: `6` of `6`
 - Async
   - Theory: `16` of `20`
@@ -61,28 +61,19 @@
 ## JavaScript
 
 - To start asynchronous programming
-  - Private class fields: 🤷 unknown ⟶  🎓 known
-  - Private class methods: 🤷 unknown ⟶  🎓 known
-  - `WeakRef`: 🤷 unknown ⟶  👂 heard
-  - Total: you have `69` of `72` skills, `3` to be upgraded, and `66` above needed
+  - Total: you have `72` of `72` skills, `0` to be upgraded, and `67` above needed
 - To start Node.js
   - `Symbol`: 🎓 known ⟶  🖐️ used
   - `Infinity`: 🎓 known ⟶  🖐️ used
   - Generators: 🎓 known ⟶  🖐️ used
   - Async generator: 🎓 known ⟶  🖐️ used
-  - `void`: 🤷 unknown ⟶  🖐️ used
+  - `void`: 🎓 known ⟶  🖐️ used
   - Property descriptors: 👂 heard ⟶  🎓 known
   - Sealing properties: 👂 heard ⟶  🎓 known
   - Freezing properties: 👂 heard ⟶  🎓 known
   - Computed properties: 👂 heard ⟶  🎓 known
   - Instance class fields: 👂 heard ⟶  🎓 known
-  - Static class fields: 🤷 unknown ⟶  🎓 known
-  - Private class fields: 🤷 unknown ⟶  🎓 known
-  - Private class methods: 🤷 unknown ⟶  🎓 known
-  - `Reflect`: 🤷 unknown ⟶  🎓 known
-  - `Atomics`: 🤷 unknown ⟶  👂 heard
-  - `WeakRef`: 🤷 unknown ⟶  👂 heard
-  - Total: you have `81` of `97` skills, `16` to be upgraded, and `77` above needed
+  - Total: you have `87` of `97` skills, `10` to be upgraded, and `79` above needed
 
 ## Async
 
