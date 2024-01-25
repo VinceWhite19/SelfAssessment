@@ -37,7 +37,7 @@
   - Logical Assignment: 🙋 explained
   - Bitwise operators: 🎓 known
   - Ternary operator: 🙋 explained
-  - `void`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
+  - `void`: 🎓 known
   - `yield`: 🙋 explained
   - `await`: 🙋 explained
   - Template literal: 🙋 explained
@@ -55,9 +55,9 @@
   - Freezing properties: 👂 heard
   - Computed properties: 👂 heard
   - Instance class fields: 👂 heard
-  - Static class fields: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
-  - Private class fields: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
-  - Private class methods: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
   - `if`: 🙋 explained
   - `while`: 🙋 explained
@@ -85,9 +85,9 @@
   - Function expression: 🙋 explained
   - Default parameters: 🙋 explained
   - Functional object: 👂 heard
-  - `Function.prototype.call`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
-  - `Function.prototype.bind`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
-  - `Function.prototype.apply`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
+  - `Function.prototype.call`: 🎓 known
+  - `Function.prototype.bind`: 🎓 known
+  - `Function.prototype.apply`: 🎓 known
   - `return`: 🙋 explained
 - Data structures
   - `Array`: 🙋 explained
@@ -102,11 +102,11 @@
   - `RegExp`: 🙋 explained
   - `Date`: 🙋 explained
   - `Math`: 🙋 explained
-  - `Reflect`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
+  - `Reflect`: 🎓 known
   - `Error`: 🙋 explained
-  - `Atomics`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
+  - `Atomics`: 🎓 known
   - `JSON`: 🙋 explained
-  - `WeakRef`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
+  - `WeakRef`: 🎓 known
   - `FinalizationRegistry`: 👂 heard
   - `Intl`: 🙋 explained
   - `Promise`: 🙋 explained
