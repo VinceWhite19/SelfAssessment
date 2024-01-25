@@ -37,7 +37,7 @@
   - Logical Assignment: 🙋 explained
   - Bitwise operators: 🎓 known
   - Ternary operator: 🙋 explained
-  - `void`: 🎓 know 👉 Warning: not matching level and emoji
+  - `void`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
   - `yield`: 🙋 explained
   - `await`: 🙋 explained
   - Template literal: 🙋 explained
@@ -55,9 +55,9 @@
   - Freezing properties: 👂 heard
   - Computed properties: 👂 heard
   - Instance class fields: 👂 heard
-  - Static class fields: 🎓 know 👉 Warning: not matching level and emoji
-  - Private class fields: 🎓 know 👉 Warning: not matching level and emoji
-  - Private class methods: 🎓 know 👉 Warning: not matching level and emoji
+  - Static class fields: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
+  - Private class fields: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
+  - Private class methods: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
 - Statements
   - `if`: 🙋 explained
   - `while`: 🙋 explained
@@ -85,9 +85,9 @@
   - Function expression: 🙋 explained
   - Default parameters: 🙋 explained
   - Functional object: 👂 heard
-  - `Function.prototype.call`: 🎓 know 👉 Warning: not matching level and emoji
-  - `Function.prototype.bind`: 🎓 know 👉 Warning: not matching level and emoji
-  - `Function.prototype.apply`: 🎓 know 👉 Warning: not matching level and emoji
+  - `Function.prototype.call`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
+  - `Function.prototype.bind`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
+  - `Function.prototype.apply`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
   - `return`: 🙋 explained
 - Data structures
   - `Array`: 🙋 explained
@@ -102,11 +102,11 @@
   - `RegExp`: 🙋 explained
   - `Date`: 🙋 explained
   - `Math`: 🙋 explained
-  - `Reflect`: 🎓 know 👉 Warning: not matching level and emoji
+  - `Reflect`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
   - `Error`: 🙋 explained
-  - `Atomics`: 🎓 know 👉 Warning: not matching level and emoji
+  - `Atomics`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
   - `JSON`: 🙋 explained
-  - `WeakRef`: 🎓 know 👉 Warning: not matching level and emoji
+  - `WeakRef`: 🎓 know 👉 Warning: not matching level and emoji 👉 Warning: not matching level and emoji
   - `FinalizationRegistry`: 👂 heard
   - `Intl`: 🙋 explained
   - `Promise`: 🙋 explained

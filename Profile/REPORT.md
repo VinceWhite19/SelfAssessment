@@ -37,7 +37,7 @@
   - Async adapters and utils: `5` of `5`
   - Async abstractions interfaces: `11` of `11`
   - JavaScript & Node.js specific: `17` of `17`
-  - Techniques: `7` of `10`
+  - Techniques: `8` of `10`
 - NodeJS
   - Internals and concepts: `9` of `9`
   - Modularity, layers and dependencies: `13` of `14`
@@ -105,8 +105,7 @@
   - Error handling in async code: 👂 heard ⟶  🖐️ used
   - Better stack traces with return await: 👂 heard ⟶  🖐️ used
   - Promise.allSettled: 👂 heard ⟶  🖐️ used
-  - Revealing constructor: 🤷 unknown ⟶  🎓 known
-  - Total: you have `31` of `50` skills, `19` to be upgraded, and `21` above needed
+  - Total: you have `32` of `50` skills, `18` to be upgraded, and `21` above needed
 - To start Node.js
   - Async Iterator: 👂 heard ⟶  🎓 known
   - Signal: 👂 heard ⟶  🎓 known
@@ -121,8 +120,7 @@
   - Error handling in async code: 👂 heard ⟶  🖐️ used
   - Better stack traces with return await: 👂 heard ⟶  🖐️ used
   - Promise.allSettled: 👂 heard ⟶  🖐️ used
-  - Revealing constructor: 🤷 unknown ⟶  👂 heard
-  - Total: you have `23` of `37` skills, `14` to be upgraded, and `17` above needed
+  - Total: you have `24` of `37` skills, `13` to be upgraded, and `18` above needed
 - For Node.js platform/system programming
   - Race conditions: 🎓 known ⟶  🖐️ used
   - Dead locks: 🎓 known ⟶  🖐️ used
@@ -163,7 +161,7 @@
   - Web Locks API: 👂 heard ⟶  🎓 known
   - IPC: 🤷 unknown ⟶  🎓 known
   - Channel API: 🤷 unknown ⟶  🎓 known
-  - Revealing constructor: 🤷 unknown ⟶  🖐️ used
+  - Revealing constructor: 🎓 known ⟶  🖐️ used
   - Total: you have `35` of `75` skills, `40` to be upgraded, and `13` above needed
 
 ## NodeJS
