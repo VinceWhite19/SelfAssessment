@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🖐️ used 
+  - Procedural programming: 🖐️ used
   - Imperative programming: 🖐️ used
-  - Structured programming: 👂 heard 
-  - Non-structured programming: 👂 heard 
+  - Structured programming: 👂 heard
+  - Non-structured programming: 👂 heard
   - Functional programming: 🖐️ used
   - Prototype-based programming: 🖐️ used
-  - Object-oriented programming: 🖐️ used 
-  - Object-based programming: 👂 heard 
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 👂 heard
   - Generic programming: 👂 heard
   - Concurrent computing: 👂 heard
-  - Asyncronous programming: 🖐️ used 
+  - Asyncronous programming: 🖐️ used
   - Parallel programming: 👂 heard
   - Reactive programming: 👂 heard
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming: 👂 heard
   - Domain-specific languages: 👂 heard
-  - Multi-paradigm programming: 🖐️ used 
+  - Multi-paradigm programming: 🖐️ used
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
   - Lambda calculus: 👂 heard
@@ -50,16 +50,16 @@
   - Singleton: 🙋 explained
   - Factory Method: 🙋 explained
   - Abstract Factory: 🙋 explained
-  - Adapter:  🎓 known
+  - Adapter: 🎓 known
   - Observer: 🎓 known
   - Strategy: 🎓 known
   - Facade: 🙋 explained
   - Proxy: 🎓 known
-  - Chain of Responsibility:👂 heard
+  - Chain of Responsibility: 👂 heard
   - Command: 👂 heard
   - Iterator: 🎓 known
   - State: 🖐️ used
-  - Bridge:🎓 known
+  - Bridge: 🎓 known
   - Builder: 🎓 known
   - Prototype: 🎓 known
   - Composite: 🎓 known
@@ -70,5 +70,5 @@
   - Template Method: 👂 heard
   - Visitor: 👂 heard
   - Reactor: 👂 heard
-  - Active object:👂 heard
+  - Active object: 👂 heard
   - Delegation: 👂 heard

@@ -1,121 +1,121 @@
 ## JavaScript
 
 - Language
-  - `Object`:  🙋 explained
-  - `Function`:  🙋 explained
-  - `Boolean`:  🙋 explained
-  - `Number`:  🙋 explained
-  - `BigInt`:  🙋 explained
-  - `String`:  🙋 explained
+  - `Object`: 🙋 explained
+  - `Function`: 🙋 explained
+  - `Boolean`: 🙋 explained
+  - `Number`: 🙋 explained
+  - `BigInt`: 🙋 explained
+  - `String`: 🙋 explained
   - `Symbol`: 🎓 known
   - `Infinity`: 🎓 known
-  - `NaN`:  🙋 explained
-  - `undefined`:  🙋 explained
-  - `null`:  🙋 explained
-  - `this`:  🙋 explained
-  - `instanceof`:  🙋 explained
-  - `...spread`:  🙋 explained
-  - `...rest`:  🙋 explained
-  - `typeof`:  🙋 explained
-  - Destructuring:  🙋 explained
+  - `NaN`: 🙋 explained
+  - `undefined`: 🙋 explained
+  - `null`: 🙋 explained
+  - `this`: 🙋 explained
+  - `instanceof`: 🙋 explained
+  - `...spread`: 🙋 explained
+  - `...rest`: 🙋 explained
+  - `typeof`: 🙋 explained
+  - Destructuring: 🙋 explained
   - Generators: 🎓 known
   - Iterators: 🖐️ used
   - Async generator: 🎓 known
   - Async iterator: 🖐️ used
-  - Chaining:  🙋 explained
-  - Optional chaining:  🙋 explained
-  - IIFE:  🙋 explained
-  - Async IIFE:  🙋 explained
-  - `global`:  🙋 explained
-  - `globalThis`:  🙋 explained
-  - `window`:  🙋 explained
-  - Getters and setters:  🙋 explained
-  - `__proto__`:  🙋 explained
-  - `prototype`:  🙋 explained
-  - Equality operators:  🙋 explained
-  - Logical operators:  🙋 explained
-  - Logical Assignment:  🙋 explained
+  - Chaining: 🙋 explained
+  - Optional chaining: 🙋 explained
+  - IIFE: 🙋 explained
+  - Async IIFE: 🙋 explained
+  - `global`: 🙋 explained
+  - `globalThis`: 🙋 explained
+  - `window`: 🙋 explained
+  - Getters and setters: 🙋 explained
+  - `__proto__`: 🙋 explained
+  - `prototype`: 🙋 explained
+  - Equality operators: 🙋 explained
+  - Logical operators: 🙋 explained
+  - Logical Assignment: 🙋 explained
   - Bitwise operators: 🎓 known
-  - Ternary operator:  🙋 explained
-  - `void`: 🎓 know
-  - `yield`:  🙋 explained
-  - `await`:  🙋 explained
-  - Template literal:  🙋 explained
-  - Strict mode:  🙋 explained
-  - Hoisting:  🙋 explained
-  - `delete`:  🙋 explained
-  - `in`:  🙋 explained
-  - `super`:  🙋 explained
-  - `eval`:  🙋 explained
-  - `static`:  🙋 explained
-  - `Number.parseInt`:  🙋 explained
-  - `Number.parseFloat`:  🙋 explained
+  - Ternary operator: 🙋 explained
+  - `void`: 🎓 know 👉 Warning: not matching level and emoji
+  - `yield`: 🙋 explained
+  - `await`: 🙋 explained
+  - Template literal: 🙋 explained
+  - Strict mode: 🙋 explained
+  - Hoisting: 🙋 explained
+  - `delete`: 🙋 explained
+  - `in`: 🙋 explained
+  - `super`: 🙋 explained
+  - `eval`: 🙋 explained
+  - `static`: 🙋 explained
+  - `Number.parseInt`: 🙋 explained
+  - `Number.parseFloat`: 🙋 explained
   - Property descriptors: 👂 heard
   - Sealing properties: 👂 heard
   - Freezing properties: 👂 heard
   - Computed properties: 👂 heard
   - Instance class fields: 👂 heard
-  - Static class fields: 🎓 know
-  - Private class fields: 🎓 know
-  - Private class methods: 🎓 know
+  - Static class fields: 🎓 know 👉 Warning: not matching level and emoji
+  - Private class fields: 🎓 know 👉 Warning: not matching level and emoji
+  - Private class methods: 🎓 know 👉 Warning: not matching level and emoji
 - Statements
-  - `if`:  🙋 explained
-  - `while`:  🙋 explained
-  - `do..while`:  🙋 explained
-  - `for`:  🙋 explained
-  - `for..in`:  🙋 explained
-  - `for..of`:  🙋 explained
-  - `for await`:  🙋 explained
-  - `throw`:  🙋 explained
-  - `break`:  🙋 explained
-  - `continue`:  🙋 explained
-  - `import`:  🙋 explained
-  - `export`:  🙋 explained
-  - `label`:  🙋 explained
-  - `try..catch`:  🙋 explained
-  - `switch`:  🙋 explained
-  - `class`:  🙋 explained
-  - `extends`:  🙋 explained
+  - `if`: 🙋 explained
+  - `while`: 🙋 explained
+  - `do..while`: 🙋 explained
+  - `for`: 🙋 explained
+  - `for..in`: 🙋 explained
+  - `for..of`: 🙋 explained
+  - `for await`: 🙋 explained
+  - `throw`: 🙋 explained
+  - `break`: 🙋 explained
+  - `continue`: 🙋 explained
+  - `import`: 🙋 explained
+  - `export`: 🙋 explained
+  - `label`: 🙋 explained
+  - `try..catch`: 🙋 explained
+  - `switch`: 🙋 explained
+  - `class`: 🙋 explained
+  - `extends`: 🙋 explained
   - `with`: 👂 heard
-  - `new`:  🙋 explained
+  - `new`: 🙋 explained
 - Functions
-  - Arrow function:  🙋 explained
-  - Async function:  🙋 explained
-  - Function declaration:  🙋 explained 
-  - Function expression:  🙋 explained
-  - Default parameters:  🙋 explained
+  - Arrow function: 🙋 explained
+  - Async function: 🙋 explained
+  - Function declaration: 🙋 explained
+  - Function expression: 🙋 explained
+  - Default parameters: 🙋 explained
   - Functional object: 👂 heard
-  - `Function.prototype.call`: 🎓 know
-  - `Function.prototype.bind`: 🎓 know
-  - `Function.prototype.apply`: 🎓 know
-  - `return`:  🙋 explained
+  - `Function.prototype.call`: 🎓 know 👉 Warning: not matching level and emoji
+  - `Function.prototype.bind`: 🎓 know 👉 Warning: not matching level and emoji
+  - `Function.prototype.apply`: 🎓 know 👉 Warning: not matching level and emoji
+  - `return`: 🙋 explained
 - Data structures
-  - `Array`:  🙋 explained
-  - `Map`:  🙋 explained
-  - `Set`:  🙋 explained
-  - Weak collections:  🙋 explained
-  - Typed arrays:  🙋 explained
-  - Mixins:  🙋 explained
-  - `Object.assign`:  🙋 explained
+  - `Array`: 🙋 explained
+  - `Map`: 🙋 explained
+  - `Set`: 🙋 explained
+  - Weak collections: 🙋 explained
+  - Typed arrays: 🙋 explained
+  - Mixins: 🙋 explained
+  - `Object.assign`: 🙋 explained
 - Standard classes and namespaces
-  - `Proxy`:  🙋 explained
-  - `RegExp`:  🙋 explained
-  - `Date`:  🙋 explained
-  - `Math`:  🙋 explained
-  - `Reflect`: 🎓 know
-  - `Error`:  🙋 explained
-  - `Atomics`: 🎓 know
-  - `JSON`:  🙋 explained
-  - `WeakRef`: 🎓 know
+  - `Proxy`: 🙋 explained
+  - `RegExp`: 🙋 explained
+  - `Date`: 🙋 explained
+  - `Math`: 🙋 explained
+  - `Reflect`: 🎓 know 👉 Warning: not matching level and emoji
+  - `Error`: 🙋 explained
+  - `Atomics`: 🎓 know 👉 Warning: not matching level and emoji
+  - `JSON`: 🙋 explained
+  - `WeakRef`: 🎓 know 👉 Warning: not matching level and emoji
   - `FinalizationRegistry`: 👂 heard
-  - `Intl`:  🙋 explained
-  - `Promise`:  🙋 explained
-  - `console`:  🙋 explained
-  - Timers:  🙋 explained
+  - `Intl`: 🙋 explained
+  - `Promise`: 🙋 explained
+  - `console`: 🙋 explained
+  - Timers: 🙋 explained
 - Infrastructure
-  - V8:  🙋 explained
-  - Node.js:  🙋 explained
-  - npm:  🙋 explained
-  - prettier:  🙋 explained
-  - MDN:  🙋 explained
+  - V8: 🙋 explained
+  - Node.js: 🙋 explained
+  - npm: 🙋 explained
+  - prettier: 🙋 explained
+  - MDN: 🙋 explained
   - TC39: 👂 heard

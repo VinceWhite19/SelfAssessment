@@ -1,65 +1,65 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop:  🙋 explained 
-  - `try..catch`:  🙋 explained
-  - Non-blocking:  🙋 explained
-  - Async I/O:  🙋 explained
-  - Thread pool:  🎓 known
+  - Event loop: 🙋 explained
+  - `try..catch`: 🙋 explained
+  - Non-blocking: 🙋 explained
+  - Async I/O: 🙋 explained
+  - Thread pool: 🎓 known
   - Pattern Reactor: 🎓 known
-  - CAS operations:👂 heard
+  - CAS operations: 👂 heard
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv:  🎓 known
+  - libuv: 🎓 known
   - Race conditions: 🎓 known
   - Dead locks: 🎓 known
   - Live locks: 🎓 known
   - Concurrent programming: 🎓 known
-  - Parallel programming: 🎓 known 
+  - Parallel programming: 🎓 known
   - Actor Model: 🎓 known
   - Thread: 🎓 known
   - Process: 🎓 known
 - Async contracts
-  - Callbacks:  🙋 explained
-  - Callback-last-error-first:  🙋 explained
-  - Thenable:  🙋 explained
-  - Promise:  🙋 explained
-  - Async/await:  🙋 explained
-  - Future:👂 heard
-  - Deferred:👂 heard
-  - Sync generator:👂 heard
-  - Async Generator:👂 heard
-  - Async Iterator:👂 heard
-  - Event:  🙋 explained
-  - Coroutine:👂 heard
-  - Goroutine:👂 heard
-  - Signal:👂 heard
-  - Stream:  🙋 explained
+  - Callbacks: 🙋 explained
+  - Callback-last-error-first: 🙋 explained
+  - Thenable: 🙋 explained
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
+  - Future: 👂 heard
+  - Deferred: 👂 heard
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 🙋 explained
+  - Coroutine: 👂 heard
+  - Goroutine: 👂 heard
+  - Signal: 👂 heard
+  - Stream: 🙋 explained
   - Chain of responsibility
-  - Middleware:  🙋 explained
+  - Middleware: 🙋 explained
   - Locks: 🎓 known
 - Async adapters and utils
-  - callbackify:  🖐️ used
-  - promisify:  🖐️ used
-  - asyncify:  🖐️ used
-  - Callbacks compose:👂 heard
+  - callbackify: 🖐️ used
+  - promisify: 🖐️ used
+  - asyncify: 🖐️ used
+  - Callbacks compose: 👂 heard
   - Async compose: 👂 heard
 - Async abstractions interfaces
-  - EventEmitter:  🎓 known
+  - EventEmitter: 🎓 known
   - Observable/Observer: 🎓 known
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform: 🎓 known
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
-  - Async Collector:👂 heard
+  - Async Collector: 👂 heard
   - Semaphore: 🎓 known
   - Mutex: 🎓 known
   - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
-  - Timers:  🙋 explained
+  - Timers: 🙋 explained
   - `setImmediate`: 🎓 known
   - `nextTick`: 🎓 known
   - AbortController: 👂 heard

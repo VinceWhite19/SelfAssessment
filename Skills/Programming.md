@@ -13,7 +13,7 @@
   - Framework: 🖐️ used
   - Platform: 🖐️ used
   - Source code: 🖐️ used
-  - Object code: 👂 heard 
+  - Object code: 👂 heard
   - Machine code: 🙋 explained
   - Microcode
   - Software engineering: 🙋 explained
@@ -76,12 +76,12 @@
   - Contravariance
 - Functions
   - Signature: 👂 heard
-  - Argument:  🙋 explained
-  - Parameter:  🙋 explained
-  - Pure function:  🙋 explained
+  - Argument: 🙋 explained
+  - Parameter: 🙋 explained
+  - Pure function: 🙋 explained
   - Lambda expression: 🙋 explained
-  - Side effects:  🙋 explained
-  - Closure:  🙋 explained
+  - Side effects: 🙋 explained
+  - Closure: 🙋 explained
   - Partial application: 👂 heard
   - Currying: 🙋 explained
   - Higher order: 🙋 explained
@@ -90,7 +90,7 @@
   - Callback: 🙋 explained
   - Listener: 🙋 explained
   - Composition: 🙋 explained
-  - Pipe:  🎓 known
+  - Pipe: 🎓 known
   - Memoize: 🖐️ used
   - Wrapper: 🖐️ used
   - Functor: 👂 heard
@@ -133,13 +133,13 @@
   - IPv6: 🖐️ used
   - NAT: 🖐️ used
   - URL: 🙋 explained
-  - URN 
+  - URN
   - URI: 🎓 known
 - Process and tools
-  - Compiler:  👂 heard
-  - Just-in-time compilation:  👂 heard
-  - Ahead-of-time compilation:  👂 heard
-  - Transpiler:  👂 heard
+  - Compiler: 👂 heard
+  - Just-in-time compilation: 👂 heard
+  - Ahead-of-time compilation: 👂 heard
+  - Transpiler: 👂 heard
   - Linter: 🖐️ used
   - Polyfill: 🖐️ used
   - Interpreter: 🖐️ used
@@ -148,7 +148,7 @@
   - Static linking
   - Runtime: 🖐️ used
   - Virtual machine: 🖐️ used
-  - Register-based VM 
+  - Register-based VM
   - Stack-based VM
   - Containerization: 🖐️ used
   - Debugger: 🖐️ used
@@ -164,7 +164,7 @@
   - Docker: 🙋 explained
   - Kubernetes: 🖐️ used
   - GCC
-  - LLVM 
+  - LLVM
 - Antipatterns
   - Magic numbers: 🙋 explained
   - Hard code: 🙋 explained
@@ -185,7 +185,7 @@
   - Long method/function/procedure: 🖐️ used
   - Long inheritance: 🖐️ used
   - Large class/file: 🙋 explained
-  - Too many parameters 🙋 explained
+  - Too many parameters: 🙋 explained
   - Pass-through parameters: 🙋 explained
   - Accumulate and fire: 🙋 explained
   - Use switch/case: 🙋 explained
@@ -213,7 +213,7 @@
   - Unix: 🎓 known
   - BSD: 🎓 known
   - MacOS: 🎓 known
-  - Windows:  🖐️ used
+  - Windows: 🖐️ used
   - Real-time OS: 👂 heard
   - Embedded OS: 👂 heard
 - Standards
